@@ -1,6 +1,4 @@
-Spampede README.txt
-
-Login(s):  jb9
+Spampede README
 
 
 Date:
